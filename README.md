@@ -1,15 +1,15 @@
 
-💫 About Me:
-🔭 I’m currently working on:
+**💫 About Me:**
+**🔭 I’m currently working on:**
 As a full stack developer in MERN Stack.
 
-👯 I’m looking to collaborate on:
+**👯 I’m looking to collaborate on:**
 Fullstack projects
 
-🌱 I’m currently learning:
+**🌱 I’m currently learning:**
 Nextjs
 
-💬 Ask me about:
+**💬 Ask me about:**
 JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
 
 
