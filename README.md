@@ -1,4 +1,4 @@
-# Hi 👋, I'm PPS-H
+# Hi 👋
 ### Senior Software Engineer | MERN Stack | Next.js | React Native | AI Integrations | Drupal
 
 I'm a **Senior Software Engineer** with **5+ years of experience** building scalable web and mobile applications. I enjoy solving complex backend problems, designing modern user experiences, and integrating AI into real-world products.
